@@ -1,0 +1,7 @@
+1,Dacia,Logan
+2,Renault,Clio
+3,Ford,Focus
+4,Volkswagen,Golf4
+5,Honda,Civic
+6,Opel,Astra
+7,2,Renault,Clio,2024-01-09,2024-01-18
